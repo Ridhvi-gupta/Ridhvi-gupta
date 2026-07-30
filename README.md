@@ -30,10 +30,10 @@
 ###
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=Ridhvi-gupta&theme=react&show_icons=true&hide_border=true&count_private=true"  /></p>
-  <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhvi-gupta&theme=react&show_icons=true&hide_border=true&layout=compact"  /></p> -->
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhvi-gupta&theme=react&show_icons=true&hide_border=true&layout=compact"  /></p>
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/Ridhvi-gupta/output/snake.svg" alt="Snake animation" /> -->
+ <img src="https://raw.githubusercontent.com/Ridhvi-gupta/output/snake.svg" alt="Snake animation" />
 
 ###
